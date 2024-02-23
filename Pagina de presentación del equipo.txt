@@ -1,0 +1,20 @@
+Grupo_2_4
+
+Integrantes:
+
+- Daniel Vidal de Leon
+Rol: lider técnico
+Lenguajes:c++,python,Java,HTML
+perfil técnico:
+se programar principalmente en c++, python y java, mas centrado en c++ y python. e trabajado en proyectos de creacion de aplicaciones y trabajos relacionados con herramientas de mapeo y programas de apredizaje de maquina.
+
+- Valentina Garcia Alfonso
+Rol: lider planeación
+Lenguajes:c++,python,Java
+perfil técnico:
+
+
+- Sebastian Galindo Rodriguez
+Rol: lider de pruebas
+Lenguajes:c++,python,Java,
+perfil técnico:
